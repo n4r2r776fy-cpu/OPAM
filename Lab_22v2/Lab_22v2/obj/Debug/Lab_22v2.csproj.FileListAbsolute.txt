@@ -1,0 +1,7 @@
+D:\OPAM\OPAM\Lab_22v2\Lab_22v2\bin\Debug\Lab_22v2.exe.config
+D:\OPAM\OPAM\Lab_22v2\Lab_22v2\bin\Debug\Lab_22v2.exe
+D:\OPAM\OPAM\Lab_22v2\Lab_22v2\bin\Debug\Lab_22v2.pdb
+D:\OPAM\OPAM\Lab_22v2\Lab_22v2\obj\Debug\Lab_22v2.csproj.AssemblyReference.cache
+D:\OPAM\OPAM\Lab_22v2\Lab_22v2\obj\Debug\Lab_22v2.csproj.CoreCompileInputs.cache
+D:\OPAM\OPAM\Lab_22v2\Lab_22v2\obj\Debug\Lab_22v2.exe
+D:\OPAM\OPAM\Lab_22v2\Lab_22v2\obj\Debug\Lab_22v2.pdb
