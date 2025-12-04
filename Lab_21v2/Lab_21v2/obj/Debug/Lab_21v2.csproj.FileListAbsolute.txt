@@ -1,0 +1,2 @@
+D:\OPAM\OPAM\Lab_21v2\Lab_21v2\obj\Debug\Lab_21v2.csproj.AssemblyReference.cache
+D:\OPAM\OPAM\Lab_21v2\Lab_21v2\obj\Debug\Lab_21v2.csproj.CoreCompileInputs.cache

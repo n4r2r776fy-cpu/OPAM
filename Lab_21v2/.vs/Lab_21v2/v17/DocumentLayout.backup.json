@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OPAM\\OPAM\\Lab_21v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8C5D6C-19A7-4793-BCEA-7F536F445B82}|Lab_21v2\\Lab_21v2.csproj|d:\\opam\\opam\\lab_21v2\\lab_21v2\\lab21_createbookfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8C5D6C-19A7-4793-BCEA-7F536F445B82}|Lab_21v2\\Lab_21v2.csproj|solutionrelative:lab_21v2\\lab21_createbookfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8C5D6C-19A7-4793-BCEA-7F536F445B82}|Lab_21v2\\Lab_21v2.csproj|D:\\OPAM\\OPAM\\Lab_21v2\\lab_21v2\\lab21_appendbookfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8C5D6C-19A7-4793-BCEA-7F536F445B82}|Lab_21v2\\Lab_21v2.csproj|solutionrelative:lab_21v2\\lab21_appendbookfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8C5D6C-19A7-4793-BCEA-7F536F445B82}|Lab_21v2\\Lab_21v2.csproj|D:\\OPAM\\OPAM\\Lab_21v2\\lab_21v2\\lab21_processbookfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8C5D6C-19A7-4793-BCEA-7F536F445B82}|Lab_21v2\\Lab_21v2.csproj|solutionrelative:lab_21v2\\lab21_processbookfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab21_AppendBookFile.cs",
+              "DocumentMoniker": "D:\\OPAM\\OPAM\\Lab_21v2\\Lab_21v2\\Lab21_AppendBookFile.cs",
+              "RelativeDocumentMoniker": "Lab_21v2\\Lab21_AppendBookFile.cs",
+              "ToolTip": "D:\\OPAM\\OPAM\\Lab_21v2\\Lab_21v2\\Lab21_AppendBookFile.cs",
+              "RelativeToolTip": "Lab_21v2\\Lab21_AppendBookFile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:16:42.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab21_ProcessBookFile.cs",
+              "DocumentMoniker": "D:\\OPAM\\OPAM\\Lab_21v2\\Lab_21v2\\Lab21_ProcessBookFile.cs",
+              "RelativeDocumentMoniker": "Lab_21v2\\Lab21_ProcessBookFile.cs",
+              "ToolTip": "D:\\OPAM\\OPAM\\Lab_21v2\\Lab_21v2\\Lab21_ProcessBookFile.cs",
+              "RelativeToolTip": "Lab_21v2\\Lab21_ProcessBookFile.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:16:31.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab21_CreateBookFile.cs",
+              "DocumentMoniker": "D:\\OPAM\\OPAM\\Lab_21v2\\Lab_21v2\\Lab21_CreateBookFile.cs",
+              "RelativeDocumentMoniker": "Lab_21v2\\Lab21_CreateBookFile.cs",
+              "ToolTip": "D:\\OPAM\\OPAM\\Lab_21v2\\Lab_21v2\\Lab21_CreateBookFile.cs",
+              "RelativeToolTip": "Lab_21v2\\Lab21_CreateBookFile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:15:36.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
